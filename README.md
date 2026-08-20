@@ -4,7 +4,7 @@
 <p align="center">
   I break things to protect...
 </p>
-
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQFVIIm4iDq4QA/feedshare-shrink_800/B56ZqBw0nMKAAk-/0/1763113661023?e=2147483647&v=beta&t=tsUBzAPduzncKLb6YUTY7W8LTXqemSqom6Ql9_NHnYA"/>
 ---
 
 ### 🧠 Currently focused on
