@@ -33,10 +33,5 @@ A hands-on testbed for prompt injection, jailbreak techniques, and guardrail byp
 - Web application security (PortSwigger)
 - ML/AI Security fundamentals
 
-### 📫 Let's connect
 
-Open to conversations about AI security, red-teaming, and breaking things responsibly.
 
----
-
-<p align="center"><em>"The best way to secure a system is to understand exactly how it fails."</em></p>
