@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Security Engineer </h3>
 
 <p align="center">
-  Breaking things (safely, on purpose) to learn how to defend them.
+  I break things to protect...
 </p>
 
 ---
