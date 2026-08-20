@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D5622AQFVIIm4iDq4QA/feedshare-shrink_800/B56ZqBw0nMKAAk-/0/1763113661023?e=2147483647&v=beta&t=tsUBzAPduzncKLb6YUTY7W8LTXqemSqom6Ql9_NHnYA](https://i.ytimg.com/an_webp/UmTmKH_e7D4/mqdefault_6s.webp?du=3000&sqp=CIjvnNQG&rs=AOn4CLBPNcgtietR0sHDdh_2h50OXmAoxQ)"/>
+  <img src="[[https://media.licdn.com/dms/image/v2/D5622AQFVIIm4iDq4QA/feedshare-shrink_800/B56ZqBw0nMKAAk-/0/1763113661023?e=2147483647&v=beta&t=tsUBzAPduzncKLb6YUTY7W8LTXqemSqom6Ql9_NHnYA](https://i.ytimg.com/an_webp/UmTmKH_e7D4/mqdefault_6s.webp?du=3000&sqp=CIjvnNQG&rs=AOn4CLBPNcgtietR0sHDdh_2h50OXmAoxQ)](https://i.ytimg.com/vi/CsnE5YYuzmM/maxresdefault.jpg)"/>
 </p>
 
 ### 🧠 Currently focused on
