@@ -2,18 +2,18 @@
 <h3 align="center">Aspiring AI Security Engineer </h3>
 
 <p align="center">
-  I break things to protect...
+  Phobos on Top?
 </p>
 
 <p align="center">
   <img src="https://i.ytimg.com/an_webp/UmTmKH_e7D4/mqdefault_6s.webp?du=3000&sqp=CIjvnNQG&rs=AOn4CLBPNcgtietR0sHDdh_2h50OXmAoxQ"/>
 </p>
 
-### 🧠 Currently focused on
+###  Currently focused on
 
-- 🕵️ LLM Application Security — prompt injection, jailbreak techniques, guardrail design
-- 🧩 Building and red-teaming my own security testbeds
-- 📚 OWASP LLM Top 10 · NIST AI RMF · hands-on CTF-style practice
+-  LLM Application Security — prompt injection, jailbreak techniques, guardrail design
+-  Building and red-teaming my own security testbeds
+-  OWASP LLM Top 10 · NIST AI RMF · hands-on CTF-style practice
 
 ### 🛠️ Tech I work with
 
