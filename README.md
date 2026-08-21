@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://i.ytimg.com/an_webp/UmTmKH_e7D4/mqdefault_6s.webp?du=3000&sqp=CIjvnNQG&rs=AOn4CLBPNcgtietR0sHDdh_2h50OXmAoxQ](https://static.wikitide.net/2b2twiki/c/c7/Interdimensional_Bridge.png)"/>
+  <img src="https://static.wikitide.net/2b2twiki/c/c7/Interdimensional_Bridge.png"/>
 </p>
 
 ###  Currently focused on
