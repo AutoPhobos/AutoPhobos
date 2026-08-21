@@ -27,7 +27,7 @@
 ### Featured project
 
 **[LLM-Security-Testing](https://github.com/AutoPhobos/LLM-Security-Testing)**
-A hands-on testbed for prompt injection, jailbreak techniques, and guardrail bypass methods — including a context-splitting / social-engineering extraction test against a simulated chatbot with a hidden system prompt.
+A hands-on testbed for prompt injection, jailbreak techniques, and guardrail bypass methods, including a context-splitting/social-engineering extraction test against a simulated chatbot with a hidden system prompt.
 
 ### Currently learning
 
