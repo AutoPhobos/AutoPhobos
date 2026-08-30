@@ -11,9 +11,9 @@
 
 ###  Currently focused on
 
--  LLM Application Security — prompt injection, jailbreak techniques, guardrail design
--  Building and red-teaming my own security testbeds
--  OWASP LLM Top 10 · NIST AI RMF · hands-on CTF-style practice
+-  LLM Application Security — prompt injection, jailbreak techniques, guardrail design with PortSwigger Labs
+-  Deving on JAMES Project
+-  OWASP LLM Top 10 and Networking
 
 ### 🛠️ Tech I work with
 
