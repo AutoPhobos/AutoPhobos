@@ -26,7 +26,7 @@
 
 ### Featured project
 
-**[JAMES-Project]([(https://github.com/AutoPhobos/chatbotjames)]**
+[JAMES-Project](https://github.com/AutoPhobos/chatbotjames)
 AI Tool used for Security/Pen Testing.
 
 ### Currently learning
