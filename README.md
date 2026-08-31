@@ -11,7 +11,7 @@
 
 ###  Currently focused on
 
--  LLM Application Security — prompt injection, jailbreak techniques, guardrail design with PortSwigger Labs
+-  LLM Application and Integration Security with PortSwigger Labs
 -  Deving on JAMES Project
 -  OWASP LLM Top 10 and Networking
 
@@ -33,7 +33,7 @@ AI Tool used for Security/Pen Testing.
 
 - CompTIA Network+ fundamentals
 - Web application security (PortSwigger)
-- ML/AI Security fundamentals
+- AI/ML Security fundamentals
 
 
 
