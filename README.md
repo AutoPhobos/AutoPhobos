@@ -25,9 +25,6 @@
   <img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/BURP%20SUITE-111111?style=for-the-badge&logo=burp-suite&logoColor=FF6633"/>
-  <img src="https://img.shields.io/badge/PLAYWRIGHT-111111?style=for-the-badge&logo=playwright&logoColor=45BA4B"/>
-  <img src="https://img.shields.io/badge/FLASK-111111?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/REST%20APIS-111111?style=for-the-badge&logo=fastapi&logoColor=009688"/>
   <img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
 </p>
 
