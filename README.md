@@ -2,47 +2,47 @@
 <h3 align="center">Aspiring AI Security Engineer</h3>
 
 <p align="center">
-  Building, breaking, and learning how modern AI systems fail.
+  <code>Break the model. Trace the chain. Secure the system.</code>
 </p>
 
 <p align="center">
   <img src="https://static.wikitide.net/2b2twiki/c/c7/Interdimensional_Bridge.png"/>
 </p>
 
-### Currently focused on
+### CURRENTLY FOCUSED ON
 
-* LLM application and AI agent security
-* Web security research with PortSwigger Web Security Academy
-* Building **Phobos**, an open-source Web & AI security testing framework
-* OWASP GenAI / LLM security and AI attack surfaces
-* Understanding how AI systems interact with tools, APIs, and real application state
+* LLM & AI Agent Security
+* Web Application Security
+* AI Red Teaming & Adversarial Testing
+* AI → API → Tool Trust Boundaries
+* OWASP GenAI / LLM Security
+* Security Automation & Research
 
-### 🛠️ Tech I work with
+### TECH I WORK WITH
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/BURP%20SUITE-111111?style=for-the-badge&logo=burp-suite&logoColor=FF6633"/>
+  <img src="https://img.shields.io/badge/PLAYWRIGHT-111111?style=for-the-badge&logo=playwright&logoColor=45BA4B"/>
+  <img src="https://img.shields.io/badge/FLASK-111111?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/REST%20APIS-111111?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
 </p>
 
-### Featured project
+### FEATURED PROJECT
 
 **[Phobos](https://github.com/Ph-b-s/.Phobos)**
-Open-source framework for authorized security testing of modern web applications, AI agents, APIs, tools, and the trust boundaries between them.
 
-**[JAMES Project](https://github.com/AutoPhobos/chatbotjames)**
-An AI-powered security and penetration-testing tool I'm developing to explore practical AI-assisted security workflows.
+> Open-source framework for authorized security testing of modern web applications, AI agents, APIs, tools, and the trust boundaries between them.
 
-### Currently learning
+`DISCOVER → NORMALIZE → CONNECT → PROBE → VALIDATE → CORRELATE → REPORT`
 
-* Web application security & offensive security
-* LLM application and agent security
-* AI/ML security fundamentals
-* Networking and infrastructure fundamentals
-* Security automation and Python development
+### CURRENTLY LEARNING
 
-### Goal
+`WEB SECURITY` · `AI SECURITY` · `LLM ATTACKS` · `AGENT SECURITY` · `NETWORKING` · `PYTHON` · `SECURITY AUTOMATION`
 
-Build a career around **AI security** and eventually work on systems that make AI applications harder to exploit.
+### LONG-TERM GOAL
 
+Build a career in **AI Security**, focused on understanding how models, applications, APIs, tools, and autonomous agents can be attacked — and how those systems can be engineered to resist them.
