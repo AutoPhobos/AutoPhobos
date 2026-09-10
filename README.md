@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Security Engineer</h3>
 
 <p align="center">
-  <code>Break the model. Trace the chain. Secure the system.</code>
+  <code>Pushing further and further</code>
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
 
 * LLM & AI Agent Security
 * Web Application Security
-* AI Red Teaming & Adversarial Testing
 * AI → API → Tool Trust Boundaries
 * OWASP GenAI / LLM Security
 * Security Automation & Research
@@ -22,11 +21,15 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/LLM-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/HUGGING%20FACE-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/KALI%20LINUX-111111?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
   <img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/BURP%20SUITE-111111?style=for-the-badge&logo=burp-suite&logoColor=FF6633"/>
+  <img src="https://img.shields.io/badge/BURP%20SUITE-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
   <img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
+
 
 ### FEATURED PROJECT
 
@@ -42,4 +45,4 @@
 
 ### LONG-TERM GOAL
 
-Build a career in **AI Security**, focused on understanding how models, applications, APIs, tools, and autonomous agents can be attacked — and how those systems can be engineered to resist them.
+Build a career in **AI Security**, focused on understanding how models, applications, APIs, tools, and autonomous agents can be attacked - and how those systems can be engineered to resist them.
