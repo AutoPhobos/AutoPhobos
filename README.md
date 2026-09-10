@@ -35,9 +35,10 @@
 
 **[Phobos](https://github.com/Ph-b-s/.Phobos)**
 
-> Open-source framework for authorized security testing of modern web applications, AI agents, APIs, tools, and the trust boundaries between them.
+> Open-source security testing framework for modern web applications, AI agents, APIs, tools, and the trust boundaries connecting them.
 
-`DISCOVER → NORMALIZE → CONNECT → PROBE → VALIDATE → CORRELATE → REPORT`
+`DISCOVER → MAP → NORMALIZE → CONNECT → PROBE → VALIDATE → CORRELATE → REPORT`
+
 
 ### CURRENTLY LEARNING
 
