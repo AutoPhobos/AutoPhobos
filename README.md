@@ -33,11 +33,9 @@
 
 ### FEATURED PROJECT
 
-**[Phobos](https://github.com/Ph-b-s/.Phobos)**
+**[Garak]([(https://github.com/NVIDIA/garak)])**
 
-> Open-source security testing framework for modern web applications, AI agents, APIs, tools, and the trust boundaries connecting them.
-
-`DISCOVER → MAP → NORMALIZE → CONNECT → PROBE → VALIDATE → CORRELATE → REPORT`
+> garak checks if an LLM can be made to fail in a way we don't want. garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses.
 
 
 ### CURRENTLY LEARNING
