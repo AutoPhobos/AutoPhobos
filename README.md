@@ -33,7 +33,7 @@
 
 ### FEATURED PROJECT
 
-**[Garak]((https://github.com/NVIDIA/garak))**
+**[Garak](https://github.com/NVIDIA/garak)**
 
 > garak checks if an LLM can be made to fail in a way we don't want. garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses.
 
